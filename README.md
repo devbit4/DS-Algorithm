@@ -1,4 +1,4 @@
-# 💻 DS-Algorithm
+# 💻 Data Structures & Algorithms
 
 #### devbit4
 
