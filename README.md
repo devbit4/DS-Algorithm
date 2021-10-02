@@ -15,6 +15,8 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 5| Sep 28, 2021 | Linked List Unshift Shift Get Set| [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 6| Sep 29, 2021 | Linked List Insert Remove Reverse| [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 7| Sep 30, 2021 | Doubly Linked List | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
+| Day 8| Oct 1, 2021 | Doubly Linked List | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
+| Day 9| Oct 2, 2021 | Doubly Linked List | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 
 
 
