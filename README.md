@@ -21,6 +21,7 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 11| Oct 4, 2021 | Tree | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 12| Oct 5, 2021 | Tree insert | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 13| Oct 6, 2021 | Hash Table | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
+| Day 14| Oct 7, 2021 | Hash Table | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 
 
 
