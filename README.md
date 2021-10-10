@@ -23,6 +23,8 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 13| Oct 6, 2021 | Hash Table | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 14| Oct 7, 2021 | Hash Table | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 15| Oct 8, 2021 | Call stack / Recursion | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
+| Day 16| Oct 10, 2021 | sort | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
+
 
 
 
