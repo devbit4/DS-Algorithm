@@ -28,6 +28,8 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 18| Oct 12, 2021 | quick sort | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 19| Oct 13, 2021 | graph | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 20| Oct 14, 2021 | graph | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
+| Day 21| Oct 15, 2021 | dfs, bfs | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
+
 
 
 
