@@ -31,6 +31,7 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 21| Oct 15, 2021 | dfs, bfs | [Udemy course](https://www.udemy.com/course/data-structures-algorithms-javascript/)  |
 | Day 22| Oct 16, 2021 | 백준문제풀이 | [백준](https://www.acmicpc.net/step)  |
 | Day 23| Oct 17, 2021 | 백준문제물이| [백준](https://www.acmicpc.net/step) |
+| Day 24| Oct 18, 2021 | 백준문제물이| [백준](https://www.acmicpc.net/step) |
 
 
 
