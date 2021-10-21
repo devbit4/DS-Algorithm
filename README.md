@@ -33,7 +33,8 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 23| Oct 17, 2021 | 백준문제물이| [백준](https://www.acmicpc.net/step) |
 | Day 24| Oct 18, 2021 | 백준문제물이| [백준](https://www.acmicpc.net/step) |
 | Day 25| Oct 19, 2021 | 백준문제물이| [백준](https://www.acmicpc.net/step) |
-
+| Day 26| Oct 20, 2021 | 백준문제물이| [백준](https://www.acmicpc.net/step) |
+| Day 27| Oct 21, 2021 | 백준문제물이 if| [백준](https://www.acmicpc.net/step) |
 
 
 
