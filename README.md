@@ -37,6 +37,7 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 27| Oct 21, 2021 | 백준문제물이 if| [백준](https://www.acmicpc.net/step) |
 | Day 28| Oct 22, 2021 | 백준문제물이(좌표/알람) if| [백준](https://www.acmicpc.net/step) |
 | Day 29| Oct 23, 2021 | for문 백준 / 문자열 속 변수| [백준](https://www.acmicpc.net/step) |
+| Day 30| Oct 24, 2021 | for문 백준| [백준](https://www.acmicpc.net/step) |
 
 
 
