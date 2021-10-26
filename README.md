@@ -39,7 +39,7 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 29| Oct 23, 2021 | for문 백준 / 문자열 속 변수| [백준](https://www.acmicpc.net/step) |
 | Day 30| Oct 24, 2021 | for문 백준| [백준](https://www.acmicpc.net/step) |
 | Day 31| Oct 25, 2021 | for문 백준| [백준](https://www.acmicpc.net/step) |
-
+| Day 32| Oct 26, 2021 | for문/while 백준| [백준](https://www.acmicpc.net/step) |
 
 
 
