@@ -40,6 +40,27 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 30| Oct 24, 2021 | for문 백준| [백준](https://www.acmicpc.net/step) |
 | Day 31| Oct 25, 2021 | for문 백준| [백준](https://www.acmicpc.net/step) |
 | Day 32| Oct 26, 2021 | for문/while 백준| [백준](https://www.acmicpc.net/step) |
+| Day 33| Oct 27, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 34| Oct 28, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 35| Oct 29, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 36| Oct 30, 2021 | 백준| [백준](https://www.acmicpc.net/step) |
+| Day 37| Oct 31, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 38| Oct 1, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 39| Oct 2, 2021 | 백준| [백준](https://www.acmicpc.net/step) |
+| Day 40| Oct 3, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 41| Oct 4, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 42| Oct 5, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 43| Oct 6, 2021 | 인프런| [인프런](https://www.inflearn.com/) |
+| Day 44| Oct 7, 2021 | 인프런|  [인프런](https://www.inflearn.com/)|
+| Day 45| Oct 8, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
+| Day 46| Oct 9, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
+| Day 47| Oct 10, 2021 | 인프런|  [인프런](https://www.inflearn.com/)|
+| Day 48| Oct 11, 2021 |  인프런|[인프런](https://www.inflearn.com/)  |
+| Day 49| Oct 12, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
+| Day 50| Oct 13, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
+
+
+
 
 
 
