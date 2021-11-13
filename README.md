@@ -55,9 +55,9 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 45| Oct 8, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
 | Day 46| Oct 9, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
 | Day 47| Oct 10, 2021 | 인프런|  [인프런](https://www.inflearn.com/)|
-| Day 48| Oct 11, 2021 |  인프런|[인프런](https://www.inflearn.com/)  |
+| Day 48| Oct 11, 2021 |  인프런/substr|[인프런](https://www.inflearn.com/)  |
 | Day 49| Oct 12, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
-| Day 50| Oct 13, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
+| Day 50| Oct 13, 2021 |  인프런/filter | [인프런](https://www.inflearn.com/) |
 
 
 
