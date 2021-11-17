@@ -61,7 +61,7 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 51| Oct 14, 2021 |  Array(5).fill(0) | [인프런](https://www.inflearn.com/) |
 | Day 52| Oct 15, 2021 | 문자열 탐색  | [인프런](https://www.inflearn.com/) |
 | Day 53| Oct 16, 2021 | 문자열 탐색  | [인프런](https://www.inflearn.com/) |
-
+| Day 54| Oct 17, 2021 | replace, 숫자 추출  | [인프런](https://www.inflearn.com/) |
 
 
 
