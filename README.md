@@ -65,6 +65,10 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 55| Oct 18, 2021 |  문자열 압축 | [인프런](https://www.inflearn.com/) |
 | Day 56| Oct 19, 2021 |  자리수의 합 | [인프런](https://www.inflearn.com/) |
 | Day 57| Oct 22, 2021 |  블루투포스/ 숫자뒤집기 | [인프런](https://www.inflearn.com/) |
+| Day 58| Oct 23, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
+| Day 59| Oct 24, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
+| Day 60| Oct 25, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
+
 
 
 
