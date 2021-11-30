@@ -69,7 +69,7 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 59| Oct 24, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
 | Day 60| Oct 25, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
 | Day 61| Oct 26, 2021 |  정규표현식 | [인프런](https://www.inflearn.com/) |
-
+| Day 62| Oct 30, 2021 |   | [인프런](https://www.inflearn.com/) |
 
 
 
