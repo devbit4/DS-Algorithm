@@ -45,32 +45,33 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 35| Oct 29, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
 | Day 36| Oct 30, 2021 | 백준| [백준](https://www.acmicpc.net/step) |
 | Day 37| Oct 31, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
-| Day 38| Oct 1, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
-| Day 39| Oct 2, 2021 | 백준| [백준](https://www.acmicpc.net/step) |
-| Day 40| Oct 3, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
-| Day 41| Oct 4, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
-| Day 42| Oct 5, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
-| Day 43| Oct 6, 2021 | 인프런| [인프런](https://www.inflearn.com/) |
-| Day 44| Oct 7, 2021 | 인프런|  [인프런](https://www.inflearn.com/)|
-| Day 45| Oct 8, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
-| Day 46| Oct 9, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
-| Day 47| Oct 10, 2021 | 인프런|  [인프런](https://www.inflearn.com/)|
-| Day 48| Oct 11, 2021 |  인프런/substr|[인프런](https://www.inflearn.com/)  |
-| Day 49| Oct 12, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
-| Day 50| Oct 13, 2021 |  인프런/filter | [인프런](https://www.inflearn.com/) |
-| Day 51| Oct 14, 2021 |  Array(5).fill(0) | [인프런](https://www.inflearn.com/) |
-| Day 52| Oct 15, 2021 | 문자열 탐색  | [인프런](https://www.inflearn.com/) |
-| Day 53| Oct 16, 2021 | 문자열 탐색  | [인프런](https://www.inflearn.com/) |
-| Day 54| Oct 17, 2021 | replace, 숫자 추출  | [인프런](https://www.inflearn.com/) |
-| Day 55| Oct 18, 2021 |  문자열 압축 | [인프런](https://www.inflearn.com/) |
-| Day 56| Oct 19, 2021 |  자리수의 합 | [인프런](https://www.inflearn.com/) |
-| Day 57| Oct 22, 2021 |  블루투포스/ 숫자뒤집기 | [인프런](https://www.inflearn.com/) |
-| Day 58| Oct 23, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
-| Day 59| Oct 24, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
-| Day 60| Oct 25, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
-| Day 61| Oct 26, 2021 |  정규표현식 | [인프런](https://www.inflearn.com/) |
-| Day 62| Oct 30, 2021 | 파이썬  | [인프런](https://www.inflearn.com/) |
-
+| Day 38| Nov 1, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 39| Nov 2, 2021 | 백준| [백준](https://www.acmicpc.net/step) |
+| Day 40| Nov 3, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 41| Nov 4, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 42| Nov 5, 2021 |  백준| [백준](https://www.acmicpc.net/step) |
+| Day 43| Nov 6, 2021 | 인프런| [인프런](https://www.inflearn.com/) |
+| Day 44| Nov 7, 2021 | 인프런|  [인프런](https://www.inflearn.com/)|
+| Day 45| Nov 8, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
+| Day 46| Nov 9, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
+| Day 47| Nov 10, 2021 | 인프런|  [인프런](https://www.inflearn.com/)|
+| Day 48| Nov 11, 2021 |  인프런/substr|[인프런](https://www.inflearn.com/)  |
+| Day 49| Nov 12, 2021 |  인프런| [인프런](https://www.inflearn.com/) |
+| Day 50| Nov 13, 2021 |  인프런/filter | [인프런](https://www.inflearn.com/) |
+| Day 51| Nov 14, 2021 |  Array(5).fill(0) | [인프런](https://www.inflearn.com/) |
+| Day 52| Nov 15, 2021 | 문자열 탐색  | [인프런](https://www.inflearn.com/) |
+| Day 53| Nov 16, 2021 | 문자열 탐색  | [인프런](https://www.inflearn.com/) |
+| Day 54| Nov 17, 2021 | replace, 숫자 추출  | [인프런](https://www.inflearn.com/) |
+| Day 55| Nov 18, 2021 |  문자열 압축 | [인프런](https://www.inflearn.com/) |
+| Day 56| Nov 19, 2021 |  자리수의 합 | [인프런](https://www.inflearn.com/) |
+| Day 57| Nov 22, 2021 |  블루투포스/ 숫자뒤집기 | [인프런](https://www.inflearn.com/) |
+| Day 58| Nov 23, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
+| Day 59| Nov 24, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
+| Day 60| Nov 25, 2021 |  블루투포스 | [인프런](https://www.inflearn.com/) |
+| Day 61| Nov 26, 2021 |  정규표현식 | [인프런](https://www.inflearn.com/) |
+| Day 62| Nov 30, 2021 | 파이썬  | [인프런](https://www.inflearn.com/) |
+| Day 63| Dec 1, 2021 | 파이썬  | [인프런](https://www.inflearn.com/) |
+| Day 64| Dec 2, 2021 | 파이썬  | [인프런](https://www.inflearn.com/) |
 
 
 
