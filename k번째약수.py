@@ -14,7 +14,7 @@ sys.stdin = open("input.txt", "rt")
 # else:
 #     print(a[k-1])
 
-# 모범답안용
+# 모범용
 # 숫자로 고쳐주는 map
 n, k = map(int, input().split())
 # 찾으면 다음으로
