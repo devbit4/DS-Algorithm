@@ -73,7 +73,7 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 63| Dec 1, 2021 | 파이썬  | [인프런](https://www.inflearn.com/) |
 | Day 64| Dec 2, 2021 | 파이썬  | [인프런](https://www.inflearn.com/) |
 | Day 65| Dec 3, 2021 | k  | [인프런](https://www.inflearn.com/) |
-
+| Day 66| Dec 5, 2021 | k번째 큰 수 대표값  | [인프런](https://www.inflearn.com/) |
 
 
 
