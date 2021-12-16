@@ -75,5 +75,7 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 65| Dec 3, 2021 | k  | [인프런](https://www.inflearn.com/) |
 | Day 66| Dec 5, 2021 | k번째 큰 수 대표값  | [인프런](https://www.inflearn.com/) |
 | Day 67| Dec 13, 2021 | 공통원소 구하기  | [인프런](https://www.inflearn.com/) |
+| Day 68| Dec 14, 2021 | 투포인터 알고리즘  | [인프런](https://www.inflearn.com/) |
+| Day 69| Dec 15, 2021 | 투포인터 알고리즘  | [인프런](https://www.inflearn.com/) |
 
 
