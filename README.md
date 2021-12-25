@@ -80,3 +80,5 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 70| Dec 16, 2021 | 투포인터 알고리즘  | [인프런](https://www.inflearn.com/) |
 | Day 71| Dec 17, 2021 | 투포인터 알고리즘  | [인프런](https://www.inflearn.com/) |
 | Day 72| Dec 21, 2021 | 세수의최솟값,   | [인프런](https://www.inflearn.com/) |
+| Day 73| Dec 22, 2021 | 해쉬   | [인프런](https://www.inflearn.com/) |
+| Day 74| Dec 23, 2021 | 해쉬   | [인프런](https://www.inflearn.com/) |
