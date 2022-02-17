@@ -89,3 +89,4 @@ based on [Data Structures & Algorithms(Udemy course)](https://www.udemy.com/cour
 | Day 79| Feb 13, 2022 | 스택 큐| [인프런](https://www.inflearn.com/) |
 | Day 80| Feb 14, 2022 | 문제풀이| [인프런](https://www.inflearn.com/) |
 | Day 81| Feb 16, 2022 | leet code| [인프런](https://www.inflearn.com/) |
+| Day 82| Feb 18, 2022 | youtube coding test| [인프런](https://www.inflearn.com/) |
